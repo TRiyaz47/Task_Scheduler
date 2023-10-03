@@ -3,9 +3,6 @@ from db import add_task,delete_task,edit_task,show_tasks_db
 import json
 
 
-# Create a Flask Instance
-# Edited by harshit
-# Edited by Ishant
 # Edited by Riyaz
 
 app = Flask(__name__)
